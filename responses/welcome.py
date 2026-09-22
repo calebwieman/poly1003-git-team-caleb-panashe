@@ -1,2 +1,2 @@
 def get_welcome():
-    return "=== Study Energy Advisor ==="
+    return "=== Academic Energy Capacity ==="
