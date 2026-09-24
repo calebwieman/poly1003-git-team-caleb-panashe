@@ -1,2 +1,2 @@
 def get_response():
-    return "Pick one manageable task and get started."
+    return "Go to the gym and get a pump in boss. Who's gonna carry the boats!!!"
